@@ -112,6 +112,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: Donut spell.
 - First major appearance: book 4.
 - What to remember: a claw-oriented cutting or striking spell that sounds decorative but is often used as serious offense or utility.
+- Effect: it conjures a force-paw Donut can use at range to grab or strike things; at higher levels it gains claws, grows larger, and starts inheriting her own combat stats and abilities.
 - Why it matters: by later books it is part of Donut's established "cute presentation, brutal function" toolkit.
 
 ### Bad Attitude
@@ -119,6 +120,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: Donut spell.
 - First major appearance: pre-book-8, earlier than book 8; explicitly discussed again in book 8.
 - What to remember: a crowd-chaos or disruption-oriented spell rather than straightforward single-target damage.
+- Effect: it is described as a Fear-like debuff that drains Intelligence and lowers resistances, making whole groups easier to break or finish.
 - Why it matters: book 8 treats it as one of Donut's mature, known options rather than new tech.
 
 ### Banger Spheres
@@ -126,6 +128,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: throwable delivery tool.
 - First major appearance: later pre-book-8 era.
 - What to remember: Carl uses these as precision delivery systems for explosives or other payloads.
+- Effect: they start as baseball-sized scrap-metal ammo for Carl's xistera, but the same delivery logic later makes them ideal for carrying far nastier payloads.
 - Why it matters: they are classic Carl tools, useful because they let him put exactly the wrong thing in exactly the right place.
 
 ### Bolt of Ophiotaurus
@@ -133,6 +136,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: named mythic bolt.
 - First major appearance: book 3.
 - What to remember: this is not ordinary ammunition. It belongs to the category of named, high-leverage bolts meant for impossible targets or set-piece moments.
+- Effect: it behaves like a normal crossbow bolt unless it is fired directly into a deity's eye, in which case that god's invulnerability pauses for fifteen seconds.
 - Why it matters: if this bolt is being used, the scene has probably escalated beyond normal combat assumptions.
 
 ### Celestial Boon
@@ -147,6 +151,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: Carl survival skill.
 - First major appearance: pre-book-8.
 - What to remember: one of Carl's defining endurance-survival mechanics.
+- Effect: it lets the bearer survive the first otherwise-fatal hit of a fight instead of immediately dying.
 - Why it matters: when it comes up, it usually signals Carl's build philosophy: stay alive through stubborn, ugly persistence.
 
 ### Court of Sekhmet Headdress
@@ -154,6 +159,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: Donut class-linked item.
 - First major appearance: book 8.
 - What to remember: a feline-only headdress from the Sekhmet package that grants offensive or binding-spell warning.
+- Effect: it gives +10% Dexterity plus a precognition warning when someone nearby readies an offensive or binding spell or skill, but it also auto-flags Sekhmet's enemies as hostile.
 - Why it matters: it reinforces Donut's battlefield awareness and divine alignment, and it comes with deity-political downsides as well as benefits.
 
 ### Danforth
@@ -161,6 +167,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: enchanted crossbow bolt.
 - First major appearance: book 8.
 - What to remember: a rooting or anchoring bolt keyed to Crossbow skill.
+- Effect: it does no physical damage; instead, the struck body part is anchored in place for `2 seconds x Crossbow skill`, which can get ugly if the target is moving.
 - Why it matters: it is control ammunition, not just damage ammunition. If Donut is using Danforth bolts, the immediate goal is usually to hold something in place long enough for a larger plan to work.
 
 ### Deflector
@@ -175,6 +182,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: summoning consumable.
 - First major appearance: book 8.
 - What to remember: these bring in temporary engineering help and fit perfectly into Carl's "solve a combat problem with logistics" mindset.
+- Effect: they summon toolbox-carrying gremlins who can perform emergency repairs on both vehicles and biological mounts.
 - Why it matters: they become one of the clearer examples of book 8's engineering-comedy-toolkit turning into real tactical leverage.
 
 ### Emberus
@@ -189,6 +197,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: divine ring.
 - First major appearance: book 7.
 - What to remember: a god-linked ring that acts as access key, burden, lever, and liability.
+- Effect: it is first shown suppressing or partially blocking nasty soul- and disease-based conditions, which is why Carl keeps using it as dangerous containment gear.
 - Why it matters: this is one of the clearest signs that Carl is operating with divine tools that are as dangerous as they are useful.
 
 ### Enhanced Pet Biscuits
@@ -203,6 +212,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: Carl utility skill.
 - First major appearance: pre-book-8.
 - What to remember: this is a contingency-awareness skill, not an offensive showpiece.
+- Effect: it highlights hidden doors more readily and grants access to concealed dungeon locator maps that point toward exits, bosses, and other major destinations.
 - Why it matters: it captures the recurring Carl pattern of surviving through preparation, inference, and weird practical caution.
 
 ### Examine Portal
@@ -210,6 +220,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: utility/detection spell or skill.
 - First major appearance: book 8 reference.
 - What to remember: one of the information-gathering tools that matters because Carl's side survives by understanding systems better than other people do.
+- Effect: when used successfully, it identifies a portal's type, access rules, whether the user can pass through it, and the environment on the far side.
 - Why it matters: in this series, utility examination skills are often plot-driving.
 
 ### Find Traps
@@ -217,6 +228,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: utility skill.
 - First major appearance: pre-book-8; heavily leaned on in book 8.
 - What to remember: a classic Carl information skill.
+- Effect: it gives Carl an early warning when a trap is present, and at higher levels it is described as spotting almost any trap not deliberately hidden by a specialist trapmaster.
 - Why it matters: it is representative of the whole "detection beats brute force" side of the series.
 
 ### Find Weakened
@@ -224,6 +236,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: utility/combat-reading skill.
 - First major appearance: pre-book-8; explicitly advanced in book 8.
 - What to remember: one of Carl and Donut's tools for turning observation into tactical advantage.
+- Effect: in groups of three or more similar creatures, it identifies which target is closest to death.
 - Why it matters: another example of why their side performs above raw-stat expectation.
 
 ### Gate of the Feral Gods
@@ -231,6 +244,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: major artifact.
 - First major appearance: book 4.
 - What to remember: one of the single most important artifacts in the series. It affects movement, positioning, access, and escalation in ways normal items do not.
+- Effect: once the winding box and watches are assembled, the Gate can open a one-way portal to chosen coordinates, but the opening side also lingers as a breach into the Nothing until something comes through, usually a feral god.
 - Why it matters: later books treat control of the Gate as a real political and military issue.
 
 ### Gatekeeper Spell
@@ -238,6 +252,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: Donut spell from a spellbook.
 - First major appearance: book 8.
 - What to remember: an anti-class or anti-deity interference spell keyed to a specific spell target setup.
+- Effect: it temporarily strips a target of class-linked skills and abilities; against a deity, it also shuts off the god's worshipper-base spell and skill package for the duration.
 - Why it matters: it belongs to the class of effects that are dangerous not because they do damage, but because they strip targets of key abilities.
 
 ### Geyrun
@@ -252,6 +267,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: Carl phase/mobility skill.
 - First major appearance: book 7.
 - What to remember: a major late-series Carl movement skill that lets him ignore normal geometry in very Carl ways.
+- Effect: it turns Carl and his equipped gear non-corporeal during a rushing lunge, letting him pass through flesh, obstacles, and unenchanted weapons while scrambling unprotected biological targets.
 - Why it matters: once Carl has this, line of sight, barriers, and body-position assumptions become much less reliable.
 
 ### Heal Critter
@@ -259,6 +275,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: Donut support spell.
 - First major appearance: book 1.
 - What to remember: a longstanding pet/support spell in Donut's kit.
+- Effect: it is exactly what it sounds like, a spell for healing injured pets and animal companions.
 - Why it matters: it is one of the oldest reminders that Donut's build has always had real support capacity.
 
 ### Healer's Grasp
@@ -273,6 +290,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: Donut signature utility spell.
 - First major appearance: book 3.
 - What to remember: one of Donut's oldest and most abusable spells, repeatedly used for traversal, breach, escape, and rule-bending.
+- Effect: it begins as a circular temporary void in a surface, initially only a shallow dimple in walls, but it quickly becomes deep enough to cut through doors, floors, and eventually bodies or structures.
 - Why it matters: this is one of the clearest examples of the series rewarding lateral thinking over intended-use play.
 
 ### Ice Slick
@@ -280,6 +298,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: control spell.
 - First major appearance: book 8 as a newly acquired spellbook, though the spell existed earlier in Elle's toolkit.
 - What to remember: battlefield terrain control through slick ice.
+- Effect: it creates a wide sheet of roughly one-inch-thick ice, with the area scaling off intelligence and spell level.
 - Why it matters: it is practical, not flashy, which is exactly why it keeps being useful.
 
 ### Khepri
@@ -294,6 +313,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: enchanted divine-flavored gear.
 - First major appearance: pre-book-8; specifically linked back to Katia in book 8.
 - What to remember: originally gifted to Katia.
+- Explicit effect on first clear exposition: they grant multiple benefits, explicitly including underwater breathing and temporary deity effects similar to Carl's Scavenger's Daughter patch.
 - Why it matters: practical item, but also one of the pieces of lingering Katia-linked gear still shaping the team's options after her departure.
 
 ### Launch
@@ -301,6 +321,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: mobility/impact skill.
 - First major appearance: referenced in book 8.
 - What to remember: a straightforward but potent positional tool.
+- Explicit effect from first on-page use: it violently propels the user in the chosen direction, making it a burst-movement escape or finishing-line skill rather than a subtle reposition.
 - Why it matters: another reminder that book 8's action logic often depends on stacked practical mobility tech.
 
 ### Li Na Chain
@@ -315,6 +336,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: Donut charm/drain-oriented skill.
 - First major appearance: pre-book-8; explicitly referenced in book 8.
 - What to remember: an example of ability theft, drain, or affinity-style mechanics.
+- Effect: it makes one enemy at Donut's level or lower "give her his heart," causing that target to take damage in her place until the target dies.
 - Why it matters: book 8 invokes it as a model while discussing domination and mind-affecting mechanics.
 
 ### Memorial Crystal
@@ -357,6 +379,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: resistance/mental defense skill.
 - First major appearance: pre-book-8; explicitly referenced in book 8.
 - What to remember: protects against at least some hostile mind-affecting abilities.
+- Effect: at level 5 it explicitly protects against Enslavement and Conscription, and later uses show it negating other mind-affecting attacks as well.
 - Why it matters: book 8 repeatedly plays with domination, split identity, and coercive magical effects.
 
 ### Nekhebit
@@ -385,6 +408,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: spellbook spell.
 - First major appearance: book 8.
 - What to remember: defensive and camouflage-heavy slime-form spell with movement overlap.
+- Effect: it lets the caster turn into slime or a puddle, slip through cracks, hide in plain sight, and use the form as both camouflage and defense.
 - Why it matters: it enters the same tactical category as other phase/intangibility effects.
 
 ### Paramour
@@ -406,6 +430,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: niche ring item.
 - First major appearance: book 8.
 - What to remember: strange, specific, and extremely Carl.
+- Effect: it grants the Oxygenated benefit plus a Bawdy mapping effect that automatically marks bars, dance halls, and brothels on the map.
 - Why it matters: it represents the long-running pattern where obscure inventory becomes decisive when Carl combines it with a larger plan.
 
 ### Puddle Jumper
@@ -413,6 +438,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: Donut mobility spell.
 - First major appearance: pre-book-8; explicitly discussed in book 8.
 - What to remember: one of Donut's mature movement options.
+- Effect: it teleports Donut and up to three others to a point within line of sight, but it starts with a ten-second cast delay and a long cooldown, so it is mainly traversal and escape tech.
 - Why it matters: book 8 treats it as established enough to discuss level breakpoints and tactical value.
 
 ### Radar
@@ -434,6 +460,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: Carl artifact ring.
 - First major appearance: book 3.
 - What to remember: Carl's pain-for-power ring, scaling through suffering and carrying both benefit and cost.
+- Effect: it grants +5% to all stats and the Marked for Death skill, which lets Carl mark a healthy crawler and gain permanent stats if that target dies, but while a mark is active he cannot heal.
 - Why it matters: one of the most emblematic items in Carl's entire build.
 
 ### Scorpion's Bite
@@ -441,6 +468,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: Donut weapon mount.
 - First major appearance: book 8.
 - What to remember: gives Donut a way to deploy ranged gear and named bolts effectively.
+- Effect: it is a quadruped weapon-mount bandolier that can carry multiple ranged weapons and fire or reload them through inventory actions.
 - Why it matters: solves the obvious logistical problem of "how is the cat using crossbow hardware right now?"
 
 ### Sekhmet
@@ -455,6 +483,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: defensive spell.
 - First major appearance: pre-book-8; still used in book 8.
 - What to remember: practical survival magic, especially in movement-heavy or debris-heavy situations.
+- Explicit effect from first clear exposition in the series: it is the mobile version of a physical-protection barrier, useful for blocking impacts and debris but not a catch-all answer to every magical threat.
 - Why it matters: included because book 8 repeatedly rewards boring competence.
 
 ### Smoke Form
@@ -462,6 +491,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: Donut class-linked mobility/phase spell.
 - First major appearance: book 8.
 - What to remember: a phase-style or incorporeality-style spell from the Assassin of Sekhmet package.
+- Effect: it is described as a true phase-style movement spell, meant for slipping through and around obstacles rather than tanking through them.
 - Why it matters: it is good enough that the book directly compares it to other high-value movement effects.
 
 ### Source Scroll / Water Source Scroll
@@ -483,6 +513,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: spell.
 - First major appearance: book 8 discussion.
 - What to remember: a spell that cuts a target in two in a personality or identity sense.
+- Effect: it literally splits a person "down the middle" into separate halves that can later be fused back together by a fleshmancer.
 - Why it matters: included because book 8 is unusually interested in identity splits, domination, and fractured selves.
 
 ### Steady Charge
@@ -490,6 +521,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: buff skill.
 - First major appearance: book 8.
 - What to remember: one of the support boosts granted through Donut's class-linked gear packages.
+- Effect: the first on-page explanation is indirect; it comes bundled with a +20% Constitution blanket buff and appears to improve a large mount's ability to hold formation and move in line.
 - Why it matters: again, Donut's current build is about uplifting allied bodies on the field, not just herself.
 
 ### Torch
@@ -497,6 +529,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: Donut utility spell.
 - First major appearance: book 1.
 - What to remember: basic light spell, but it has never stopped being useful.
+- Effect: it creates a movable magical light source that can follow the party and have its brightness adjusted.
 - Why it matters: a good example of how older low-tier utility remains relevant deep into the series.
 
 ### Transformation Spell
@@ -504,6 +537,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: hostile effect category.
 - First major appearance: earlier in the series, explicitly relevant again in book 8.
 - What to remember: transformation effects are not cosmetic in this world. They can radically change tactics, identity, and survivability.
+- Explicit effect from the explicit book-8 example: the victim is forcibly changed into a different form, with the effect lasting until a stairwell for crawlers or six hours for NPCs.
 - Why it matters: book 8 is full of mechanics that punish anyone who treats body-state as stable.
 
 ### Twinkle Toes
@@ -511,6 +545,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: Donut movement spell.
 - First major appearance: earlier than book 8.
 - What to remember: one of Donut's standard movement or pet-mobility tools.
+- Effect: it is a cheap spell that makes Mongo or another minion run extremely fast for a duration based on Donut's Intelligence.
 - Why it matters: book 8 invokes it partly to show that old solutions do not automatically apply to new floor constraints.
 
 ### Wall of Fire
@@ -518,6 +553,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: Donut offensive/control spell.
 - First major appearance: pre-book-8; explicitly escalated in book 8.
 - What to remember: by the time book 8 discusses it, this is no longer a modest fire spell.
+- Effect: it starts as a roughly ten-meter-wide, two-meter-high wall of fire that lasts about fifteen seconds at level 1 and is primarily used to block space, separate enemies, or cover retreats.
 - Why it matters: one of Donut's best examples of "simple spell, terrifying at high level."
 
 ### Wrap of Sekhmet's Compassion
@@ -525,6 +561,7 @@ It is deliberately more exhaustive than the other recap files and is organized a
 - Type: pet headband.
 - First major appearance: book 8.
 - What to remember: healing and resurrection-adjacent support headband from the Sekhmet package.
+- Effect: when its owner's health falls below 10%, the pet becomes briefly invulnerable and gains Heal Party Member; fatal bites also have a 75% chance to cast a level-10 Raise Bootlicker on the corpse.
 - Why it matters: proves again that Donut's current package is a whole team toolkit.
 
 ### Ysalte
