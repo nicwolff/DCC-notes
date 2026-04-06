@@ -14,82 +14,82 @@ It is deliberately more exhaustive than the other recap files and is organized a
 
 ### Artifacts And Gear
 
-- `Bolt of Ophiotaurus`
-- `Court of Sekhmet Headdress`
-- `Danforth`
-- `Emberus Ring`
-- `Gate of the Feral Gods`
-- `Kneepads of the Munificent Goddess Kina`
-- `Memorial Crystal`
-- `Memorial Crystal: Apito`
-- `Memorial Crystal: Emberus`
-- `Memorial Crystal: Geyrun`
-- `Memorial Crystal: Ysalte`
-- `Petey Motteux's Little Secret`
-- `Ring of Divine Suffering`
-- `Scorpion's Bite`
-- `Wrap of Sekhmet's Compassion`
+- [`Bolt of Ophiotaurus`](#bolt-of-ophiotaurus)
+- [`Court of Sekhmet Headdress`](#court-of-sekhmet-headdress)
+- [`Danforth`](#danforth)
+- [`Emberus Ring`](#emberus-ring)
+- [`Gate of the Feral Gods`](#gate-of-the-feral-gods)
+- [`Kneepads of the Munificent Goddess Kina`](#kneepads-of-the-munificent-goddess-kina)
+- [`Memorial Crystal`](#memorial-crystal)
+- [`Memorial Crystal: Apito`](#memorial-crystal-apito)
+- [`Memorial Crystal: Emberus`](#memorial-crystal-emberus)
+- [`Memorial Crystal: Geyrun`](#memorial-crystal-geyrun)
+- [`Memorial Crystal: Ysalte`](#memorial-crystal-ysalte)
+- [`Petey Motteux's Little Secret`](#petey-motteuxs-little-secret)
+- [`Ring of Divine Suffering`](#ring-of-divine-suffering)
+- [`Scorpion's Bite`](#scorpions-bite)
+- [`Wrap of Sekhmet's Compassion`](#wrap-of-sekhmets-compassion)
 
 ### Spells And Skills
 
-- `Astral Paw`
-- `Bad Attitude`
-- `Cockroach Skill`
-- `Escape Plan`
-- `Examine Portal`
-- `Find Traps`
-- `Find Weakened`
-- `Gatekeeper Spell`
-- `Gloom Wraith Phase`
-- `Heal Critter`
-- `Healer's Grasp`
-- `Hole Spell`
-- `Ice Slick`
-- `Launch`
-- `Love Vampire`
-- `Mind Balance`
-- `Oozy Form`
-- `Puddle Jumper`
-- `Radar`
-- `Shield Spell`
-- `Smoke Form`
-- `Split Personality`
-- `Steady Charge`
-- `Torch`
-- `Transformation Spell`
-- `Twinkle Toes`
-- `Wall of Fire`
+- [`Astral Paw`](#astral-paw)
+- [`Bad Attitude`](#bad-attitude)
+- [`Cockroach Skill`](#cockroach-skill)
+- [`Escape Plan`](#escape-plan)
+- [`Examine Portal`](#examine-portal)
+- [`Find Traps`](#find-traps)
+- [`Find Weakened`](#find-weakened)
+- [`Gatekeeper Spell`](#gatekeeper-spell)
+- [`Gloom Wraith Phase`](#gloom-wraith-phase)
+- [`Heal Critter`](#heal-critter)
+- [`Healer's Grasp`](#healers-grasp)
+- [`Hole Spell`](#hole-spell)
+- [`Ice Slick`](#ice-slick)
+- [`Launch`](#launch)
+- [`Love Vampire`](#love-vampire)
+- [`Mind Balance`](#mind-balance)
+- [`Oozy Form`](#oozy-form)
+- [`Puddle Jumper`](#puddle-jumper)
+- [`Radar`](#radar)
+- [`Shield Spell`](#shield-spell)
+- [`Smoke Form`](#smoke-form)
+- [`Split Personality`](#split-personality)
+- [`Steady Charge`](#steady-charge)
+- [`Torch`](#torch)
+- [`Transformation Spell`](#transformation-spell)
+- [`Twinkle Toes`](#twinkle-toes)
+- [`Wall of Fire`](#wall-of-fire)
 
 ### Biscuits And Transformations
 
-- `Enhanced Pet Biscuits`
-- `Nothing Special`
-- `Nothing Special Party Companion`
-- `Paramour`
-- `Pet Biscuits`
+- [`Enhanced Pet Biscuits`](#enhanced-pet-biscuits)
+- [`Nothing Special`](#nothing-special)
+- [`Nothing Special Party Companion`](#nothing-special-party-companion)
+- [`Paramour`](#paramour)
+- [`Pet Biscuits`](#pet-biscuits)
 
 ### Gods And Divine Context
 
-- `Apito`
-- `Emberus`
-- `Geyrun`
-- `Khepri`
-- `Nekhebit`
-- `Sekhmet`
-- `Ysalte`
+- [`Apito`](#apito)
+- [`Emberus`](#emberus)
+- [`Geyrun`](#geyrun)
+- [`Khepri`](#khepri)
+- [`Nekhebit`](#nekhebit)
+- [`Sekhmet`](#sekhmet)
+- [`Ysalte`](#ysalte)
 
 ### Class Packages And Reward Categories
 
-- `Assassin of Sekhmet`
-- `Celestial Boon`
-- `Requite Dahlia`
-- `Spellbook Of The Floor`
+- [`Assassin of Sekhmet`](#assassin-of-sekhmet)
+- [`Celestial Boon`](#celestial-boon)
+- [`Requite Dahlia`](#requite-dahlia)
+- [`Spellbook Of The Floor`](#spellbook-of-the-floor)
 
 ### Tactical Consumables And Utility Tools
 
-- `Banger Spheres`
-- `Emergency Gremlin Scrolls`
-- `Source Scroll / Water Source Scroll`
+- [`Banger Spheres`](#banger-spheres)
+- [`Emergency Gremlin Scrolls`](#emergency-gremlin-scrolls)
+- [`Source Scroll / Water Source Scroll`](#source-scroll--water-source-scroll)
 
 ## Alphabetical Reference
 
@@ -537,16 +537,16 @@ It is deliberately more exhaustive than the other recap files and is organized a
 ## Best Quick-Recall Cluster
 
 - If you only want the ten most useful entries before reading book 8, review:
-- `Gate of the Feral Gods`
-- `Ring of Divine Suffering`
-- `Memorial Crystal`
-- `Memorial Crystal: Apito`
-- `Emberus Ring`
-- `Hole Spell`
-- `Gloom Wraith Phase`
-- `Enhanced Pet Biscuits`
-- `Nothing Special Party Companion`
-- `Assassin of Sekhmet`
+- [`Gate of the Feral Gods`](#gate-of-the-feral-gods)
+- [`Ring of Divine Suffering`](#ring-of-divine-suffering)
+- [`Memorial Crystal`](#memorial-crystal)
+- [`Memorial Crystal: Apito`](#memorial-crystal-apito)
+- [`Emberus Ring`](#emberus-ring)
+- [`Hole Spell`](#hole-spell)
+- [`Gloom Wraith Phase`](#gloom-wraith-phase)
+- [`Enhanced Pet Biscuits`](#enhanced-pet-biscuits)
+- [`Nothing Special Party Companion`](#nothing-special-party-companion)
+- [`Assassin of Sekhmet`](#assassin-of-sekhmet)
 
 ## One-Paragraph Memory Hook
 
